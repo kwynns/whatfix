@@ -1,0 +1,143 @@
+.d_doc {
+	padding: 20px;
+}
+
+.d_doc div {
+	font-family: Abel, sans-serif;
+	font-size: 18px;
+	line-height: 27px;
+}
+
+.d_title {
+	font-weight: bold;
+	padding: 10px 0px;
+}
+
+.d_header {
+	padding: 15px 0px;
+}
+
+.d_footer {
+	padding: 15px 0px;
+}
+
+.d_notes {
+	padding: 0px 10px;
+	color: #3A87AD;
+	border: 1px solid #BCE8F1;
+	background-color: #D9EDF7;
+}
+
+.d_note {
+	padding: 10px 0px;
+}
+
+.d_note_head {
+	padding: 10px 0px 0px 0px;
+	font-weight: bold;
+}
+
+.d_item {
+	
+}
+
+.d_idx_td {
+	vertical-align: top;
+	padding: 8px 0px;
+}
+
+.d_idx {
+	padding: 3px 8px;
+	background-color: #3A87AD;
+	color: white;
+	font-weight: bold;
+	border-radius: 2px;
+	margin: 0px 10px;
+	text-align: center;
+}
+
+.d_sec_td {
+	padding: 8px 0px;
+	width: 100%;
+}
+
+.d_sec {
+	
+}
+
+.d_desc {
+	
+}
+
+.d_link {
+	border: 2px solid #3A87AD;
+	border-radius: 5px;
+	background-color: ghostWhite;
+	margin: 10px 0px;
+}
+
+.d_link_a,.d_link_a:hover,.d_link_a:link,.d_link_a:active,.d_link_a:visited,.d_link_a.disabled,.d_link_a[disabled]
+	{
+	color: #3A87AD;
+	font-weight: bold;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	padding: 10px;
+}
+
+.d_img {
+	text-align: center;
+}
+
+.d_img_img {
+	box-shadow: 0 0 5px 5px #888;
+	border: 1px solid #D0D0D0;
+	margin: 10px 0px;
+}
+
+.d_guidelines_group {
+	background-color: #F7F7F9;
+	border: 1px solid #E1E1E8;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 20px 0px 10px 0px;
+	color: #1E347B;
+}
+
+.d_guidelines {
+	
+}
+
+.d_guidelines_head {
+	font-weight: bold;
+}
+
+.d_guideline_desc {
+	
+}
+
+.d_guideline {
+	padding: 10px 0px 0px 20px;
+}
+
+.d_definitions_group {
+	background-color: #F7F7F9;
+	border: 1px solid #E1E1E8;
+	padding: 10px;
+	border-radius: 5px;
+	margin: 20px 0px 10px 0px;
+	color: #1E347B;
+}
+
+.d_definition {
+	padding: 10px 0px;
+}
+
+.d_definition_name {
+	font-weight: bold;
+}
+
+.d_definition_value {
+	
+}
